@@ -131,6 +131,7 @@ This project is distributed under the MIT License. See [LICENSE](LICENSE) for de
 ## Contributors
 
 - **Author**: [zaepfchenman](https://github.com/zaepfchenman)  
-- **Additional Contributors**: *(List further contributors if any)*  
+
+
 
 Feel free to submit issues, pull requests, or any improvements. We welcome all contributions and feedback!
